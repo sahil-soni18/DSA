@@ -1,0 +1,17 @@
+# Ignore all .exe files
+*.exe
+
+# Other common ignores (optional)
+# Ignore object files
+*.o
+
+# Ignore debug files
+*.dSYM/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore compiled binaries
+bin/
+build/
